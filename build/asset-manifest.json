@@ -1,0 +1,13 @@
+{
+  "main.css": "/expense-tracker/static/css/main.8c804024.chunk.css",
+  "main.js": "/expense-tracker/static/js/main.6d54d26e.chunk.js",
+  "main.js.map": "/expense-tracker/static/js/main.6d54d26e.chunk.js.map",
+  "static/js/1.5eff2ae4.chunk.js": "/expense-tracker/static/js/1.5eff2ae4.chunk.js",
+  "static/js/1.5eff2ae4.chunk.js.map": "/expense-tracker/static/js/1.5eff2ae4.chunk.js.map",
+  "runtime~main.js": "/expense-tracker/static/js/runtime~main.2c594b5b.js",
+  "runtime~main.js.map": "/expense-tracker/static/js/runtime~main.2c594b5b.js.map",
+  "static/css/main.8c804024.chunk.css.map": "/expense-tracker/static/css/main.8c804024.chunk.css.map",
+  "index.html": "/expense-tracker/index.html",
+  "precache-manifest.88620746f03efddfe8b85a816a20d5b1.js": "/expense-tracker/precache-manifest.88620746f03efddfe8b85a816a20d5b1.js",
+  "service-worker.js": "/expense-tracker/service-worker.js"
+}

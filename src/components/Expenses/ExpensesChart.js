@@ -1,5 +1,5 @@
 import React from "react";
-
+import ReactDOM from "react-dom";
 import Chart from "../Chart/Chart";
 
 const ExpensesChart = (props) => {

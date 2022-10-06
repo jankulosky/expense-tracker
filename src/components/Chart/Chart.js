@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from "react-dom";
 
 import ChartBar from "./ChartBar";
 import "./Chart.css";
